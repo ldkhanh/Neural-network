@@ -45,6 +45,7 @@ class NeuralNetwork:
 		print('------')
 
 	def feed_forward(self,inputs):
+		print()
 
 
 
